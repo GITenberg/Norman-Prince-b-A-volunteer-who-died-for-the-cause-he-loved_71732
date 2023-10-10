@@ -5,12 +5,17 @@ contributor:
     agent_name: Prince, Frederick Henry
     gutenberg_agent_id: '56366'
     url: http://www.gutenberg.org/2009/agents/56366
+covers:
+- cover_type: archival
+  image_path: 71732-h/images/cover.jpg
 creator:
   author:
     agent_name: Babbitt, George F.
     gutenberg_agent_id: '56365'
     url: http://www.gutenberg.org/2009/agents/56365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71732#Norman-Prince-b-A-volunteer-who-died-for-the-cause-he-loved
 gutenberg_issued: '2023-09-26'
 identifiers:
   gutenberg: '71732'
